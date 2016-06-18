@@ -1,0 +1,73 @@
+[{
+  "name": "Milestones-1",
+  "height": "3em",
+  "sortable": "false",
+  "classes": "custom-row",
+  "tasks": [{
+    "name": "Kickoff",
+    "classes":"custom-task",
+    "from": "2016-06-09",
+    "to": "2016-06-16",
+    "data": "Can contain any custom data or object",
+    "progress":"40"
+  }]
+}, {
+  "name": "Milestones-2",
+  "height": "3em",
+  "sortable": "false",
+  "classes": "custom-row",
+  "tasks": [{
+    "name": "Kickoff",
+     "classes":"custom-task",
+    "from": "2016-06-14",
+    "to": "2016-06-19",
+    "data": "Can contain any custom data or object",
+    "progress":"40"
+  }]
+},{
+  "name": "Milestones-3",
+  "height": "3em",
+  "sortable": "false",
+  "classes": "custom-row",
+  "tasks": [{
+    "name": "Kickoff",
+     "classes":"custom-task",
+    "from": "2016-08-07",
+    "to": "2016-08-24",
+    "data": "Can contain any custom data or object",
+    "progress":"40"
+  }]
+}, {
+  "name": "Milestones-4",
+  "height": "3em",
+  "sortable": "false",
+  "classes": "custom-row",
+  "tasks": [{
+    "name": "Kickoff",
+    "from": "2016-09-07",
+    "to": "2016-09-28",
+    "data": "Can contain any custom data or object"
+  }]
+},{
+  "name": "Milestones-5",
+  "height": "3em",
+  "sortable": "false",
+  "classes": "custom-row",
+  "tasks": [{
+    "name": "Kickoff",
+    "from": "2016-10-07",
+    "to": "2016-10-24",
+    "data": "Can contain any custom data or object"
+  }]
+}, {
+  "name": "Milestones-6",
+  "height": "3em",
+  "sortable": "false",
+  "classes": "custom-row",
+  "tasks": [{
+    "name": "Kickoff",
+    "from": "2016-11-07",
+    "to": "2016-11-28",
+    "data": "Can contain any custom data or object"
+  }]
+}]

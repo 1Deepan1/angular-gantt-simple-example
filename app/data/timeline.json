@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Macys q1 sale",
+    "startDate": "10-May-2016",
+    "endDate": "14-May-2016",
+    "Details": {
+      "advertiser": "ATT",
+      "impressions": "220002",
+      "vcr": "10",
+      "cpm": "10",
+      "ctr": "2.0"
+    }
+  },
+  {
+    "name": "Macys q2 sale",
+    "startDate": "10-May-2016",
+    "endDate": "18-May-2016",
+    "Details": {
+      "advertiser": "ATT",
+      "impressions": "220002",
+      "vcr": "10",
+      "cpm": "10",
+      "ctr": "2.0"
+    }
+  },
+  {
+    "name": "Macys q3 sale",
+    "startDate": "17-May-2016",
+    "endDate": "30-May-2016",
+    "Details": {
+      "advertiser": "ATT",
+      "impressions": "220002",
+      "vcr": "10",
+      "cpm": "10",
+      "ctr": "2.0"
+    }
+  }
+]

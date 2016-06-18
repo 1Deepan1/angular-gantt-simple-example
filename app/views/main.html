@@ -1,0 +1,23 @@
+
+                <div class="panel-collapse" bs-collapse-target>
+                    <div class="panel-body">
+                        <div gantt 
+                        data="data"
+                        expand-to-fit="options.expandToFit"
+                        column-width="viewScale == 'day' ? 50 : 60"
+                        current-date="options.currentDate"
+                        current-date-value="options.currentDateValue"
+                        filter-task="{'name': options.filterTask}"
+                        filter-row="{'name': options.filterRow}"
+                        auto-expand="both"
+                        headers="['day']"
+                        timespans="timespans"
+                        headers-formats="options.headersFormats">
+                        <gantt-progress enabled="true"></gantt-progress>
+                        <gantt-table></gantt-table>
+                        <gantt-movable></gantt-movable>
+                        <gantt-tooltips></gantt-tooltips>
+                    </div>
+                </div>
+            </div>
+               

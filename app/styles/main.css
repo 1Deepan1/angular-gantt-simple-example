@@ -1,0 +1,42 @@
+.browsehappy {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+.gantt-task-progress {
+    position: absolute;
+    overflow: hidden;
+    bottom: 0px;
+    height: 34px;
+    border-radius: 2px;
+   
+}
+
+.gantt-current-date-line {
+    border: 2px dotted green;
+    height: 100%;
+    position: absolute;
+}
+
+.gantt-task.custom-task .gantt-task-background {
+  background: black;
+  opacity: 0.3;
+}
+
+.gantt-task.custom-task .gantt-task-content {
+
+  weight: bolder;
+}
+
+
+
+
